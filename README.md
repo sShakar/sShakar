@@ -4,4 +4,4 @@ I've worked on various types of projects from small websites to government entre
 
 #### Using
 <img src="/vue-js.svg" width='80px' /> <img src="/nuxtjs.svg" width='80px' /> 
-<img src="/react.svg" width='80px' /> <img src="/nextjs-black.svg#gh-light-mode-only" width='80px' /> <img src="/nextjs-white.svg#gh-dark-mode-only" width='80px' />
+<img src="/react.svg" width='80px' /> <img src="/nextjs-black.png#gh-light-mode-only" width='80px' /> <img src="/nextjs-white.png#gh-dark-mode-only" width='80px' />
