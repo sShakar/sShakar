@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! My name is Shakar and I'm a frontend developer.
+I specialize in frontend development with Vue mainly and React too.
 
 <!--
 **sShakar/sShakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
